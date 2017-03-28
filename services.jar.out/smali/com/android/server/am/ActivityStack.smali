@@ -5209,7 +5209,6 @@
     :cond_0
     const/4 v1, 0x0
 
-    .line 2127
     .local v1, "privacy":Z
     iget-object v4, p0, Lcom/android/server/am/ActivityStack;->mService:Lcom/android/server/am/ActivityManagerService;
 
