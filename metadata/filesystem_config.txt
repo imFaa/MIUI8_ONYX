@@ -525,7 +525,7 @@ system/etc/bluetooth/auto_pair_devlist.conf 0 0 644 selabel=u:object_r:system_fi
 system/etc/bluetooth/bt_did.conf 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/bluetooth/bt_stack.conf 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/device_features 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
-system/etc/device_features/jactivelte.xml 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/etc/device_features/OnePlus.xml 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/cne 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/cne/SwimConfig.xml 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/etc/cne/andsfCne.xml 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
