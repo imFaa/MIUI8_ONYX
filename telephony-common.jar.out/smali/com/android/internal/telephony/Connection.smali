@@ -67,6 +67,8 @@
     .end annotation
 .end field
 
+.field private mLocalVideoCapable:Z
+
 .field protected mNumberConverted:Z
 
 .field protected mNumberPresentation:I
@@ -85,6 +87,8 @@
 .end field
 
 .field public mPreHandoverState:Lcom/android/internal/telephony/Call$State;
+
+.field private mRemoteVideoCapable:Z
 
 .field mUserData:Ljava/lang/Object;
 
